@@ -1,0 +1,3 @@
+C:/Users/aslan/CLionProjects/Contest2.12/cmake-build-debug/CMakeFiles/Contest2_12.dir
+C:/Users/aslan/CLionProjects/Contest2.12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/CLionProjects/Contest2.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
